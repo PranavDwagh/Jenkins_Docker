@@ -7,7 +7,7 @@ public class Test {
 	@org.junit.Test
 	public void testInputIsEven()
 	{
-		assertTrue(CheckOddEven.checkOddEven(22));
+		assertTrue(CheckOddEven.checkOddEven(21));
 	}
 	
 }
