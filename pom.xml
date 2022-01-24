@@ -12,10 +12,11 @@
 			<version>4.13.2</version>
 			<scope>test</scope>
 		</dependency>
+		</dependencies>
 		
 		<build>
  <finalName>java-jenkins-docker</finalName>
  </build>
 
-	</dependencies>
+	
 </project>
